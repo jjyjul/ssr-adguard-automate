@@ -1,0 +1,15 @@
+# NAME: play
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:17:41
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+payload:
+
+  - DOMAIN,googleapis.cn
+  - DOMAIN,googleapis.com
+  - DOMAIN,xn--ngstr-lra8j.com
+  - DOMAIN,services.googleapis.cn
+  - DOMAIN,xn--ngstr-lra8j.com
+  - DOMAIN,xn--ngstr-cn-8za9o.com
