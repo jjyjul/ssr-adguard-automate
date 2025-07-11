@@ -1,25 +1,22 @@
 payload:
-  # Google Play 下载与更新
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX,googleusercontent.com
-  - DOMAIN-SUFFIX,play.googleapis.com
-  - DOMAIN-SUFFIX,play-lh.googleusercontent.com
-  - DOMAIN-SUFFIX,android.clients.google.com
-  - DOMAIN-SUFFIX,mtalk.google.com
-  - DOMAIN-SUFFIX,android.googleapis.com
-  - DOMAIN-SUFFIX,play-fe.googleapis.com
-  - DOMAIN-SUFFIX,play.googleapis.com.cn
-  - DOMAIN-SUFFIX,lh3.googleusercontent.com
-  - DOMAIN-SUFFIX,lh4.googleusercontent.com
-  - DOMAIN-SUFFIX,lh5.googleusercontent.com
-  - DOMAIN-SUFFIX,lh6.googleusercontent.com
-  - DOMAIN-SUFFIX,updates.googleapis.com
-  - DOMAIN,android.clients.google.com
-
-  # FCM 推送服务（Play 服务相关）
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,gcm.googleapis.com
-  - DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
-  - DOMAIN-SUFFIX,crashlytics.googleapis.com
+  - 'DOMAIN-SUFFIX,googleapis.com'
+  - 'DOMAIN-SUFFIX,gvt1.com'
+  - 'DOMAIN-SUFFIX,ggpht.com'
+  - 'DOMAIN-SUFFIX,googleusercontent.com'
+  - 'DOMAIN-SUFFIX,play.googleapis.com'
+  - 'DOMAIN-SUFFIX,play-lh.googleusercontent.com'
+  - 'DOMAIN-SUFFIX,android.clients.google.com'
+  - 'DOMAIN-SUFFIX,mtalk.google.com'
+  - 'DOMAIN-SUFFIX,android.googleapis.com'
+  - 'DOMAIN-SUFFIX,play-fe.googleapis.com'
+  - 'DOMAIN-SUFFIX,play.googleapis.com.cn'
+  - 'DOMAIN-SUFFIX,lh3.googleusercontent.com'
+  - 'DOMAIN-SUFFIX,lh4.googleusercontent.com'
+  - 'DOMAIN-SUFFIX,lh5.googleusercontent.com'
+  - 'DOMAIN-SUFFIX,lh6.googleusercontent.com'
+  - 'DOMAIN-SUFFIX,updates.googleapis.com'
+  - 'DOMAIN,android.clients.google.com'
+  - 'DOMAIN-SUFFIX,googleapis.cn'
+  - 'DOMAIN-SUFFIX,gcm.googleapis.com'
+  - 'DOMAIN-SUFFIX,firebaseinstallations.googleapis.com'
+  - 'DOMAIN-SUFFIX,crashlytics.googleapis.com'
