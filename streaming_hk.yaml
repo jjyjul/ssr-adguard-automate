@@ -1,0 +1,43 @@
+payload:
+  # MyTV SUPER
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-KEYWORD,mytvsuper
+
+  # ViuTV
+  - DOMAIN-SUFFIX,viu.tv
+  - DOMAIN-SUFFIX,viu.com
+  - DOMAIN-KEYWORD,viutv
+
+  # Disney+ 香港
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-KEYWORD,disney
+  - DOMAIN-KEYWORD,dssott
+
+  # Now E
+  - DOMAIN-SUFFIX,nowe.com
+  - DOMAIN-SUFFIX,nowtv.now.com
+  - DOMAIN-SUFFIX,now.com.hk
+
+  # HBO GO HK
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN-SUFFIX,hboasia.com
+  - DOMAIN-KEYWORD,hbogo
+
+  # Apple TV 港区
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-KEYWORD,apple-tv-plus
+
+  # Amazon Prime Video 港区
+  - DOMAIN-SUFFIX,primevideo.com
+  - DOMAIN-KEYWORD,primevideo
+
+  # Netflix 港区
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.net
+  - DOMAIN-KEYWORD,netflix
+
+  # Youtube 港区
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-KEYWORD,youtube
