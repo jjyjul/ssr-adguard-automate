@@ -1,5 +1,5 @@
 payload:
-  - 'clients3.google.com:443'
+  - 'clients3.google.com'
   - 'play-fe.googleapis.com'
   - 'clients4.google.com'
   - 'play-lh.googleusercontent.com'
