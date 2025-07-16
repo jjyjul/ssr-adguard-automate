@@ -1,43 +1,44 @@
 payload:
   # MyTV SUPER
-  - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-SUFFIX,tvb.com
-  - DOMAIN-KEYWORD,mytvsuper
+- 'mytvsuper.com'
+- 'tvb.com'
+- 'mytvsuper'
 
-  # ViuTV
-  - DOMAIN-SUFFIX,viu.tv
-  - DOMAIN-SUFFIX,viu.com
-  - DOMAIN-KEYWORD,viutv
+# ViuTV
+- 'viu.tv'
+- 'viu.com'
+- 'viutv'
 
-  # Disney+ 香港
-  - DOMAIN-SUFFIX,disneyplus.com
-  - DOMAIN-KEYWORD,disney
-  - DOMAIN-KEYWORD,dssott
+# Disney+ 香港
+- 'disneyplus.com'
+- 'disney'
+- 'dssott'
 
-  # Now E
-  - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-SUFFIX,nowtv.now.com
-  - DOMAIN-SUFFIX,now.com.hk
+# Now E
+- 'nowe.com'
+- 'nowtv.now.com'
+- 'now.com.hk'
 
-  # HBO GO HK
-  - DOMAIN-SUFFIX,hbogoasia.com
-  - DOMAIN-SUFFIX,hboasia.com
-  - DOMAIN-KEYWORD,hbogo
+# HBO GO HK
+- 'hbogoasia.com'
+- 'hboasia.com'
+- 'hbogo'
 
-  # Apple TV 港区
-  - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-KEYWORD,apple-tv-plus
+# Apple TV 港区
+- 'apple.com'
+- 'icloud-content.com'
+- 'apple'
+- 'apple-tv-plus'
+- 'itunes'
+- 'appletv'
 
-  # Amazon Prime Video 港区
-  - DOMAIN-SUFFIX,primevideo.com
-  - DOMAIN-KEYWORD,primevideo
+# Amazon Prime Video 港区
+- 'primevideo.com'
+- 'primevideo'
 
-  # Netflix 港区
-  - DOMAIN-SUFFIX,netflix.com
-  - DOMAIN-SUFFIX,netflix.net
-  - DOMAIN-KEYWORD,netflix
-
-  # Youtube 港区
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-KEYWORD,youtube
+# YouTube 港区
+- 'youtube.com'
+- 'ytimg.com'
+- 'googlevideo.com'
+- 'youtube'
+- 'youtu'
